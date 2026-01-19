@@ -1,0 +1,5 @@
+com\mycompany\coladoubleefx\model\TaskManager.class
+com\mycompany\coladoubleefx\App.class
+com\mycompany\coladoubleefx\view\CanvaColaDouble.class
+module-info.class
+com\mycompany\coladoubleefx\controller\ColaDoubleController.class
